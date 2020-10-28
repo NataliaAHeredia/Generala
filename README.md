@@ -1,3 +1,3 @@
 # Generala
 
-Generala para la clase de programacion. 
+Generala para la clase de programacion. Dados.
